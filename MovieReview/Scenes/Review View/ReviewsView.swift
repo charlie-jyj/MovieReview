@@ -45,12 +45,16 @@ struct ReviewsView: View {
                             .frame(width:65, height: 60)
                             .foregroundColor(.white)
                             .padding(.bottom, 5)
-                            
                     }
                                                                 .background(Color.pink)
                                                                 .cornerRadius(35)
                                                                 .padding()
-                                                                .shadow(color: Color.black.opacity(0.3), radius: 3, x: 3, y: 3)
+                                                                .shadow(
+                                                                    color: Color.black.opacity(0.3),
+                                                                    radius: 3,
+                                                                    x: 3,
+                                                                    y: 3
+                                                                )
                 }
             }
         }

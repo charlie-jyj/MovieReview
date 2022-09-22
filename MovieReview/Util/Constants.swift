@@ -10,7 +10,6 @@ import Foundation
 enum Constants: String {
     case cliendid = "FBavLSfzHV0hGJG4HhDI"
     case clientsecret = "lxpYrPSpO7"
-    
     var value: String {
         return self.rawValue
     }

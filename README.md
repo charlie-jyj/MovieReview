@@ -17,12 +17,13 @@
 - Combine
 - SwiftLint
 - Alamofire  
-- Kingfisher     
+- Kingfisher 
+- PhotoKit    
 
 ### 심여를 기울일 부분 
 - Async-await
 - OSLog
-- MVVM
+- MVP
 
 ### SwiftLint 설치하기
 > https://github.com/realm/SwiftLint
